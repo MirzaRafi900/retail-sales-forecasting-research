@@ -15,14 +15,16 @@ Next Steps:
 
 Date: 30 July 2026
 
-Activity:
-Read Paper #1
+Research Activity:
+Completed Literature Review Paper #1
 
-Findings:
-The paper uses machine learning methods for retail sales forecasting.
+Paper:
+Sales Forecasting Using Machine Learning Algorithm in the Retail Sector
 
-Challenges:
-Some methods were difficult to understand.
+Major Findings:
+- XGBoost performed best among tested models.
+- Machine learning outperformed ARIMA.
+- Feature engineering was important for forecasting accuracy.
 
-Next Step:
-Read the conclusion section.
+Research Idea:
+Compare additional machine learning algorithms such as Random Forest, Decision Tree, and Linear Regression on retail sales data.
