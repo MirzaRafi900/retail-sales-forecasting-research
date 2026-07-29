@@ -18,3 +18,17 @@ The objective of this research is to identify sales patterns, analyze key busine
 Mirza Zubier Siddique
 
 MSc Data Science and Analytics
+
+Current Stage
+
+✅ Research Topic Selected
+
+✅ Literature Review Started
+
+✅ First Research Paper Identified
+
+⬜ Literature Review Completion
+
+⬜ Data Analysis
+
+⬜ Machine Learning Development
