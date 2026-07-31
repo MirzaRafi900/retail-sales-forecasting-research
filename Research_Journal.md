@@ -28,3 +28,17 @@ Major Findings:
 
 Research Idea:
 Compare additional machine learning algorithms such as Random Forest, Decision Tree, and Linear Regression on retail sales data.
+
+Date: 31 July 2026
+
+Activity:
+Compared findings from the first two research papers.
+
+Observations:
+Both studies identified XGBoost as a highly effective sales forecasting model.
+
+Research Gap:
+Limited comparison of simpler machine learning techniques using the same retail forecasting framework.
+
+Learning:
+Research requires comparing studies and identifying patterns, not simply reading papers.
