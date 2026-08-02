@@ -1,7 +1,5 @@
 # Literature Review Comparison
 
-# Literature Review Comparison
-
 ## Overview
 
 Retail sales forecasting is a significant area of research in data analytics and machine learning. Accurate forecasting supports inventory management, financial planning, customer demand estimation, and business decision-making.
